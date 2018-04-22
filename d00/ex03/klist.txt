@@ -1,0 +1,6 @@
+Credentials cache: API:5929
+        Principal: sshiling@UNIT.UA
+
+  Issued                Expires               Principal
+Sep 18 11:14:18 2017  Sep 18 21:14:18 2017  krbtgt/UNIT.UA@UNIT.UA
+Sep 18 11:24:03 2017  Sep 18 21:14:18 2017  host/vogsphere-2.unit.ua@UNIT.UA
