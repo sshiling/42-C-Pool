@@ -1,7 +1,7 @@
 # 42-C-Piscine
 UNIT Factory (School 42) qualifying stage
 
-42 qualifying stage. The project was carried out within a month.
+The project was carried out within a month.
 Each day of the pool is dedicated to specific topics that serve as the foundation for further schooling.
 The project was carried out in the style of an intensive bootcamp. During the pool, we studied the basic shell commands and basic C data types, doing a series of related projects.
 
