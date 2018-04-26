@@ -1,5 +1,5 @@
 # 42-C-Piscine
-UNIT Factory (School 42) qualifying stage
+UNIT Factory (School 42) qualifying stage.
 
 The project was carried out within a month.
 Each day of the pool is dedicated to specific topics that serve as the foundation for further schooling.
