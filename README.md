@@ -32,3 +32,5 @@ The project was carried out in the style of an intensive bootcamp. During the po
 ## Final Project
 
 **bsq:** Dynamic programming
+
+#### More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school)
