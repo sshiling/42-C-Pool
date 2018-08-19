@@ -1,4 +1,4 @@
-# 42 C-Piscine
+# 42 C-Pool
 UNIT Factory (School 42) qualifying stage.
 
 The project was carried out within a month.
